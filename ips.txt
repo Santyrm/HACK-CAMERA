@@ -1,0 +1,24 @@
+IP                   : 140.213.134.81
+IP Type              : IPv4
+User OS              : Unknown OS Platform
+Version              : 
+Browser              : Unknown Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 140.213.134.81
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
+IP                   : 140.213.134.81
+IP Type              : IPv4
+User OS              : Android
+Version              : 11;
+Browser              : Handheld Browser
+Location             : West Jakarta City, Indonesia, Asia
+GeoLocation(lat, lon): -6.1683295, 106.7588494
+Currency             : Indonesian Rupiah
