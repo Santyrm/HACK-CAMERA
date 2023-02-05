@@ -58,7 +58,7 @@ apt install curl -y
 apt install wget -y
 ```
 ```bash
-git clone 
+git clone https://github.com/Santyrm/HACK-CAMERA
 ```
 ```bash
 cd HACK-CAMERA
